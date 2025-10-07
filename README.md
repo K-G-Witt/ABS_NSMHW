@@ -6,10 +6,12 @@ The Australian Bureau of Statistics National Survey of Mental Health and Wellbei
 2. What is the relationship between self-reported chronic pain and suicidal ideation, self-harm, and attempted suicide?
 
 
+
 ### Background:
 Suicide is the leading cause of death for Australians aged 18-44 years (ABS, 2024), and rates are increasing. Self-harm is even more prevalent. For every suicide death, 9 Australians are admitted to a hospital following self-harm, while 127 more Australians engage in self-harming behaviors in the community (Christensen et al., 2022). Suicidal ideation is even more common. For every suicide death between 2020-22, for example, the Australian Institute of Health and Welfare (AIHW) estimates that 344 Australians have reported seriously thinking about suicide at least once in their lifetime (AIHW 2023).
 
 Adolescence and early adulthood have been identified as high-risk periods for the emergence of both suicidal ideation (Zagdańska et al., 2013) and self-harm (Gillies et al., 2018). A younger age of onset for suicidal ideation and self-harm has been associated with numerous pooerer outcomes in adulthood, including increased risks of experiencing mental health problems, chronic suicidal ideation (Fergusson et al., 2005), more frequent self-harm, greater severity of self-harm (Ammerman et al., 2018), and greater risks of early death, including by suicide (Olfson et al., 2018). The onset of suicidal ideation and self-harm has also been associated with experiencing chronic pain. Chronic pain, in turn, has also been associated with the onset of suicidal ideation and/or self-harm (Koenig et al., 2015).
+
 
 
 ### Analyses:
@@ -29,12 +31,14 @@ Adolescence and early adulthood have been identified as high-risk periods for th
 Full analysis code is provided in this repo: [ABS_NSMHW_PopulationChar.html](), [ABS_NSMHW_kmcurves.html](), [ABS_NSMHW_CoxWeighted.html]().
 
 
+
 ### Data Sources:
 The Australian Bureau of Statistics National Survey of Mental Health and Wellbeing (ABS_NSMHW) Project uses data from two waves of the 2020-2022 National Survey of Mental Health and Wellbeing:
 * Cohort 1: surveyed between December 2020-July 2021
 * Cohort 2: surveyed between December 2021-October 2022
 
 Data for the [ABS NSMHW](https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing/latest-release) is publicly available from the ABS on request.
+
 
 
 ### Packages:
@@ -45,10 +49,12 @@ Analyses were undertaken in R for Windows. In addition to base R, the following 
 * [survminer](https://www.rdocumentation.org/packages/survminer/versions/0.4.9)
 
 
+
 ### Publications:
 The following publications have arisen from the ABS_NSMHW Project:
 
 * Witt K., et al. (2025). Generational effects in self-reported age of onset for youth suicidal ideation, self-harm, and attempted suicide using data from the Australian National Study of Mental Health and Wellbeing, 2020-22. _SSRN Preprints_. DOI: [10.2139/ssrn.5262921](http://dx.doi.org/10.2139/ssrn.5262921).
+
 
 
 
