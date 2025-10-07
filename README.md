@@ -28,7 +28,7 @@ Adolescence and early adulthood have been identified as high-risk periods for th
 
 4. Generation-stratified survivial models (Cox's proportaional hazards model) were used to determine whether there were any risk factors that were differentially associated with self-reported age of onset for suicidal ideation, self-harm, and/or attempted suicide by generation.
 
-Full analysis code is provided in this repo: [Suicide_populationchar_addCI_v2.html](), [Suicide_kmcurves.html](), [Suicide_weighted.html]().
+Full analysis code is provided in this repo: [Suicide_populationchar_addCI_v2.html](), [Suicide_kmcurves.html](https://github.com/K-G-Witt/ABS_NSMHW/blob/main/Code/Suicide_kmcurves.html), [Suicide_weighted.html]().
 
 
 
