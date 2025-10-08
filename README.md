@@ -5,7 +5,7 @@
 This repository is licensed under the [MIT License](LICENSE).
 
 If you use or build on any of the code in this repo, please cite it as:
-* Current release: Witt, KG. (2025). [ABS_NSMHW]. Zenodo. https://doi.org/10.5281/zenodo.17290805.
+* Latest release: Witt, KG. (2025). [ABS_NSMHW]. Zenodo. https://doi.org/10.5281/zenodo.17290805.
 
 
 ### Background:
