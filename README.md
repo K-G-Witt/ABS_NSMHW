@@ -64,7 +64,7 @@ The following publications have arisen from the ABS_NSMHW Project:
 
 
 
-### Additional References:
+### References:
 Ammerman BA., et al. (2018). The relationship between nonsuicidal self-injury age of onset and severity of self-harm. _Suicide Life Threat Behav_, 48(1): 31-7. DOI: [10.1111/sltb.12330](https://onlinelibrary.wiley.com/doi/10.1111/sltb.12330).
 
 Australian Bureau of Statistics. (2024). _Causes of Death, Australia_. Canberra, Australian Capital Territory: Author. [Link](https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/latest-release).
